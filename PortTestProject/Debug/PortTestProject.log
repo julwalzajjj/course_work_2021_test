@@ -1,4 +1,5 @@
 ﻿  MyForm.cpp
-c:\users\user\source\repos\porttestproject\porttestproject\myform.h(260): error C3867: "PortTestProject::MyForm::AddDataMethod": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
-c:\users\user\source\repos\porttestproject\porttestproject\myform.h(260): error C3350: PortTestProject::MyForm::AddDataDelegate: для конструктора делегата требуется 2 аргументов
+c:\users\user\source\repos\porttestproject\porttestproject\myform.h(314): warning C4101: err: неиспользованная локальная переменная
 c:\users\user\source\repos\porttestproject\porttestproject\myform.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  PortTestProject.vcxproj -> C:\Users\user\source\repos\PortTestProject\Debug\PortTestProject.exe

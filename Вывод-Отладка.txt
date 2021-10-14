@@ -1,0 +1,104 @@
+﻿"PortTestProject.exe" (Win32). Загружено "C:\Users\user\source\repos\PortTestProject\Debug\PortTestProject.exe". Символы загружены.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\mscoree.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Program Files\Avast Software\Avast\x86\aswhook.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". Невозможно найти или открыть PDB-файл.
+Поток 0x150c завершился с кодом 0 (0x0).
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\shlwapi.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\version.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\user32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\win32u.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase_clr0400.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140_clr0400.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32full.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp_win.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\imm32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\combase.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Выгружено "C:\Windows\SysWOW64\combase.dll"
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\e4a1c9189d2b01f018b953e46c80d120\mscorlib.ni.dll". 
+"PortTestProject.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\combase.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\uxtheme.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\Users\user\source\repos\PortTestProject\Debug\PortTestProject.exe". Символы загружены.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System\68e52ded8d0e73920808d8880ed14efd\System.ni.dll". 
+"PortTestProject.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\6727d7bc35e330366d2e1724c31588d2\System.Drawing.ni.dll". 
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\1832a65f299e4b6bb21796f03a62cbef\System.Windows.Forms.ni.dll". 
+"PortTestProject.exe" (CLR v4.0.30319: PortTestProject.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"PortTestProject.exe" (CLR v4.0.30319: PortTestProject.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\62fe5fc1b5bafb28a19a2754318abf00\System.Core.ni.dll". 
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\96b2b7229c43d2712ff1bf4906a723f6\System.Configuration.ni.dll". 
+"PortTestProject.exe" (CLR v4.0.30319: PortTestProject.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"PortTestProject.exe" (CLR v4.0.30319: PortTestProject.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\5a5dc2f9e9c66b74d361d490c1f4357b\System.Xml.ni.dll". 
+"PortTestProject.exe" (CLR v4.0.30319: PortTestProject.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\shell32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\windows.storage.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\wldp.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\SHCore.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\profapi.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcrypt.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptsp.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\rsaenh.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\comctl32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1151_none_d951395de104724f\GdiPlus.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\DWrite.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\msctf.dll". Невозможно найти или открыть PDB-файл.
+Вызвано исключение по адресу 0x75B3B5B2 в PortTestProject.exe: исключение Microsoft C++: IOException по адресу памяти 0x00B7E2C4.
+Вызвано исключение по адресу 0x75B3B5B2 в PortTestProject.exe: исключение Microsoft C++: [rethrow] по адресу памяти 0x00000000.
+Вызвано исключение по адресу 0x75B3B5B2 в PortTestProject.exe: исключение Microsoft C++: CallbackException по адресу памяти 0x00B7E364.
+Вызвано исключение по адресу 0x75B3B5B2 в PortTestProject.exe: исключение Microsoft C++: [rethrow] по адресу памяти 0x00000000.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextShaping.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextInputFramework.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreUIComponents.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreMessaging.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\ws2_32.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntmarta.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". Невозможно найти или открыть PDB-файл.
+"PortTestProject.exe" (Win32). Выгружено "C:\Windows\SysWOW64\WinTypes.dll"
+"PortTestProject.exe" (Win32). Выгружено "C:\Windows\SysWOW64\WinTypes.dll"
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\System.resources.dll". Сборка модуля выполнена без символов.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\System.resources.dll". Сборка модуля выполнена без символов.
+"PortTestProject.exe" (Win32). Выгружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\System.resources.dll"
+"PortTestProject.exe" (CLR v4.0.30319: PortTestProject.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\System.resources.dll". Сборка модуля выполнена без символов.
+Вызвано исключение: "System.ArgumentException" в System.dll
+Вызвано исключение: "System.ArgumentException" в System.dll
+Вызвано исключение: "System.ArgumentException" в System.dll
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll". Сборка модуля выполнена без символов.
+"PortTestProject.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll". Сборка модуля выполнена без символов.
+"PortTestProject.exe" (Win32). Выгружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll"
+"PortTestProject.exe" (CLR v4.0.30319: PortTestProject.exe). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll". Сборка модуля выполнена без символов.
+Поток 0x2ab4 завершился с кодом 0 (0x0).
+Поток 0x2804 завершился с кодом 0 (0x0).
+Поток 0x13ac завершился с кодом 0 (0x0).
+Поток 0x1760 завершился с кодом 0 (0x0).
+Поток 0xd2c завершился с кодом 0 (0x0).
+Поток 0x2cf0 завершился с кодом 0 (0x0).
+Поток 0x2cec завершился с кодом 0 (0x0).
+Поток 0x2050 завершился с кодом 0 (0x0).
+Поток 0x288c завершился с кодом 0 (0x0).
+Поток 0x2bdc завершился с кодом 0 (0x0).
+Поток 0x2b1c завершился с кодом 0 (0x0).
+Поток 0x3c34 завершился с кодом 0 (0x0).
+Программа "[15796] PortTestProject.exe" завершилась с кодом 0 (0x0).
