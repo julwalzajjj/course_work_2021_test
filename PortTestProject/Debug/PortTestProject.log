@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\user\source\repos\porttestproject\porttestproject\myform.h(260): error C3867: "PortTestProject::MyForm::AddDataMethod": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\user\source\repos\porttestproject\porttestproject\myform.h(260): error C3350: PortTestProject::MyForm::AddDataDelegate: для конструктора делегата требуется 2 аргументов
+c:\users\user\source\repos\porttestproject\porttestproject\myform.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
