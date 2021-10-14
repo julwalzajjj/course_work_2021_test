@@ -1,5 +1,9 @@
 #pragma once
 #include "MyForm_Gr.h"
+/*---------------------------------------------check list------------------------------------------
+15/10/2021
+-readline(), сделать прием и передачу по байтам, посмотреть c# код приема и передачи
+*/
 namespace PortTestProject {
 
 	using namespace System;
@@ -15,9 +19,11 @@ namespace PortTestProject {
 	/// </summary>
 	public ref class MyForm : public System::Windows::Forms::Form
 	{
+
 	String^ dataOUT;
+
 	public: delegate void AddDataDelegate(String^ myString);
-	public: AddDataDelegate^ RxDelegate;
+	public: AddDataDelegate^ RxHeadler;
 	public:
 		MyForm(void)
 		{
@@ -256,19 +262,21 @@ namespace PortTestProject {
 
 		String^ indata;
 
-private: System::Void MyForm_Load(System::Object^  sender, System::EventArgs^  e) {
-	this->RxDelegate = gcnew AddDataDelegate(AddDataMethod);
-}
 
 public: System::Void AddDataMethod(String^ myString) {
 	textBox1->AppendText(myString);
+}
+
+private: System::Void MyForm_Load(System::Object^  sender, System::EventArgs^  e) {
+	this->RxHeadler = gcnew AddDataDelegate(this, &MyForm::AddDataMethod);
+
 }
 
 private: void CP2102_Rx_IRQ(System::Object^ sender, SerialDataReceivedEventArgs^ e)
 {
 	SerialPort^ CP2102 = (SerialPort^)sender;
 	String^ indata = CP2102->ReadExisting();
-	textBox1->Invoke(this->RxDelegate, gcnew cli::array< System::Object^  >(1) { indata });
+	textBox1->Invoke(this->RxHeadler, gcnew cli::array< System::Object^  >(1) { indata });
 }
 
 private: System::Void button3_Click(System::Object^  sender, System::EventArgs^  e) {
@@ -277,9 +285,9 @@ private: System::Void button3_Click(System::Object^  sender, System::EventArgs^ 
 		CP2102->WriteLine(dataOUT);
 	}
 }
-//-----------------------------------Пашин код, доделать прием------------------------
+
 private: System::Void button4_Click(System::Object^  sender, System::EventArgs^  e) {
-	textBox1->Text = Convert::ToString(CP2102->ReadChar());
+	textBox1->Text = Convert::ToString(CP2102->ReadLine());
 }
 
 
@@ -298,7 +306,7 @@ private: System::Void button1_Click(System::Object^  sender, System::EventArgs^ 
 				this->CP2102->PortName = this->comboBox1->Text;
 				this->CP2102->BaudRate = Int32::Parse(this->comboBox2->Text);
 				this->textBox2->Text = "Enter message here";
-				//CP2102->DataReceived += gcnew SerialDataReceivedEventHandler(CP2102_Rx_IRQ);
+				CP2102->DataReceived += gcnew SerialDataReceivedEventHandler(this, &MyForm::CP2102_Rx_IRQ);
 				CP2102->WriteTimeout = 50;
 				CP2102->ReadTimeout = 50;
 				this->CP2102->Open();
